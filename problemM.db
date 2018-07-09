@@ -1,0 +1,14 @@
+#在NOI上机考试中，允许选手使用的编程语言包括@C C++ Pascal
+#NOI比赛的题目类型有@NI I SA
+#选手比赛中提交的有效文件类型有@answer source
+#选手提交的程序不得进行的操作包括@network thread file program
+#选手进入考场可以携带的物品是@pen watch
+#选手进入考场不可以携带的物品是@paper usb phone note
+#竞赛组织者将在竞赛场地为选手提供的物品是@draft water food
+#遇到下列哪些情况可以向工作人员申请加时补偿@break down
+#NOI比赛中，选手的哪些行为是禁止的@see login keyboard network
+#NOI比赛中提供的Pascal IDE环境有@GUIDE Lazarus
+#NOI比赛中提供的编程工具除了GUIDE、Lazarus、Anjuta等IDE环境之外，还可以使用的编程工具有@vi gedit
+#vim编辑器中，强制退出并保存修改可输入以下三种命令之一@:wq ZZ :x
+#调试程序的方法有@single step debugging print read source
+#一个完整的计算机系统应包括@hardware software
