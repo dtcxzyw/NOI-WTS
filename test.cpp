@@ -55,6 +55,9 @@ bool compareM(const String& a,const String& b){
 	for(int i=0;i<va.size();++i)
 		if(!find(vb,va[i]))
 			return false;
+	for(int i=0;i<vb.size();++i)
+		if(!find(va,vb[i]))			
+			return false;
 	return true;
 }
 typedef bool (*compareFunc)(const String& a,const String& b);
